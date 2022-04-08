@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "name": "Pale RKN",
+    "version": "1.0",
+    "author": "Erghel and SeryiBaran",
+  
+    "description": "Убирает плашку от Роскомнадзора",
+  
+    "icons": {
+      "16": "icons/icon-16.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["https://go.mail.ru/search/*", "https://go.mail.ru/*", "https://mail.ru/*", "https://yandex.ru/search/*"],
+        "js": ["content.js"]
+      }
+    ], 
+    "permissions": [
+        "tabs",
+        "http://*/*",
+        "https://*/*",
+        "webNavigation",
+        "webRequest",
+        "webRequestBlocking"
+    ]
+  
+  }
