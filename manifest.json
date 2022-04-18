@@ -1,13 +1,12 @@
 {
     "manifest_version": 2,
     "name": "Pale RKN",
-    "version": "1.0",
+    "version": "1.2",
     "author": "Erghel and SeryiBaran",
-  
-    "description": "Убирает плашку от Роскомнадзора",
+    "description": "Убирает плашки от Роскомнадзора",
   
     "icons": {
-      "16": "icons/icon-16.png"
+      "48": "img/logo48.webp"
     },
   
     "content_scripts": [
@@ -23,6 +22,8 @@
         "webNavigation",
         "webRequest",
         "webRequestBlocking"
-    ]
-  
+    ],
+    "browser_action": {
+      "default_title": "Pale RKN"
+    } 
   }
