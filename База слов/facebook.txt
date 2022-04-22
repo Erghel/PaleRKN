@@ -1,28 +1,12 @@
-"facebook",
-"FACEBOOK", 
-"Facebook",
-"FAcebook",
-"FACebook",
-"FACEbook", 
-"FACEBook", 
-"FACEBOok",
-"FACEBOOk",
-"FACEBOOK",
-"fACEBOK",
-"faCEBOOK",
-"facEBOOK",
-"faceBOOK",
-"facebOOK",
-"faceboOK",
-"facebooK",
-"FaCeBoOk",
-"fAcEbOoK",
-"fAcEBOOK",
-"faceboo",
-"facbook",
-"fcbook", 
-"facebok",
-"фейсбук",
-"феисбук",
-"файсбук",
-"фаисбук"
+  "facebook"
+  "facbok"
+  "facebook"
+  "facebok"
+  "faceboo"
+  "facbook"
+  "fcbook"
+  "facebok"
+  "фейсбук"
+  "феисбук"
+  "файсбук"
+  "фаисбук"
